@@ -8,7 +8,7 @@ public class SpringBootFormHandingApplication {
 
 	public static void main(String[] args) {
 
-	System.out.println("testing git checking");
+	System.out.println("testing git checking doen checking");
 
 		SpringApplication.run(SpringBootFormHandingApplication.class, args);
 	}
